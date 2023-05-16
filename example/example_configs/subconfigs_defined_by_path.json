@@ -1,0 +1,4 @@
+{
+    "training": "example/example_configs/training.json", 
+    "model": "example/example_configs/model.json" 
+}
